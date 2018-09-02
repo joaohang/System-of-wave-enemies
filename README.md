@@ -16,9 +16,11 @@ Sistema simples de criação de ondas de inimigos, colocando o script WaveManage
 
 *Configurações das casas*
  - Quantidade de casas
+ 
   As casas podem ser objetos vazios ou não da sua cena, as casas nada mais são do que uma posição(Transform).
 
 *Configurações de inimigos*
+
   Na configurações de inimigos você deve colocar os objetos que iram ser criados de acordo com suas ondas. Lembre a posição do inimigo no array é o número que você usa para instanciar um inimigo de acordo com sua onda.
 
 *Outras configurações*
